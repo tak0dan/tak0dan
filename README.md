@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tak0dan
-- 👀 I’m interested in IT and cybersecurity, I'm a die hard gamer and energy srink chugger.
+- 👀 I’m interested in IT and cybersecurity, I'm a die hard gamer and energy drink chugger.
 - 🌱 I’m currently learning programming on Java, C, C++, Python, MySQL, MongoDB
 - 💞️ I’m looking to collaborate on different linux projects.
 - 📫 You can always DM me in discord, my nickname is takodan
