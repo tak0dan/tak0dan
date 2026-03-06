@@ -35,7 +35,7 @@ MySQL · MongoDB
 
 **Environment**
 
-NixOS · Arch Linux (btw)
+NixOS(OwO-fied) · Garuda Linux(Arch Linux (btw))
 
 Also occasionally running:
 
