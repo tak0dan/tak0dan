@@ -78,6 +78,13 @@ Discord: **takodan**
 
 ---
 
+📊 Stats
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tak0dan&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tak0dan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tak0dan&theme=tokyonight)
+
+
 ## ⚡ Fun facts
 - One day I will have to answer for all the energy drinks I drank and God might not be so... merciful.
 - I probably spent more time configuring Linux than actually using it
