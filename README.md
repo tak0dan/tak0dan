@@ -88,7 +88,7 @@ Discord: **takodan**
 ## ⚡ Fun facts
 - One day I will have to answer for all the energy drinks I drank and God might not be so... merciful.
 - I probably spent more time configuring Linux than actually using it
-- Nyarch Linux is unironically good
+- Nyarch Linux is unironically decent
 - I watched **Quan Zhi Gao Shou** more than 40 times
 - I main **Healer class**
 - there is a big difference between a **cheeseburger** and a **burger with cheese on it**
